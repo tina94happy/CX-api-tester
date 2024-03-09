@@ -1,0 +1,14 @@
+# ++---------------------------------------++
+# | CX-api-tester                           |
+# | Made by Tina Su                         |
+# ++---------------------------------------++
+cx:
+  # Your tenant name
+  tenant_name: ""
+
+  # Your client id
+  client_id: ""
+
+  # Your client secret
+  client_secret: ""
+
